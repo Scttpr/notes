@@ -1,0 +1,5 @@
+- **URL :** https://github.com/tehskai/godot-unpacker
+- **Description :** godot archive unpacker for non-encrypted files
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Godot]], [[Reverse engineering]]

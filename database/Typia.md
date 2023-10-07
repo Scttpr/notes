@@ -1,0 +1,5 @@
+- **URL :** https://github.com/samchon/typia
+- **Description :** Super-fast/easy runtime validations and serializations through transformation
+- **Platforms :** [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Validator]], [[Protobuff]], [[JSON]], [[Serialization]]

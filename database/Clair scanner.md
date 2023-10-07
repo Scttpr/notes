@@ -1,0 +1,5 @@
+- **URL :** https://github.com/arminc/clair-scanner
+- **Description :** Docker containers vulnerability scan
+- **Platforms :** [[Go]]
+- **Category :** [[Tools]]
+- **Tags :** [[CIxCD]], [[OCI]], [[Vulnerability]]

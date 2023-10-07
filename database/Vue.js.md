@@ -1,0 +1,5 @@
+- **URL :** https://vuejs.org/
+- **Description :** An approachable, performant and versatile framework for building web user interfaces
+- **Platforms :** [[Javascript]], [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web application]], [[Framework]], [[UI]]

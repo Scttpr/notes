@@ -1,0 +1,5 @@
+- **URL :** http://www.nirsoft.net/utils/nircmd.html
+- **Description :** MemDump is a free, straightforward command-line utility that enables us to capture the contents of a system's RAM. It’s quite beneficial in forensics investigations or when analyzing a system for malicious activity. Its simplicity and ease of use make it a popular choice for memory acquisition.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Memory acquisition]]

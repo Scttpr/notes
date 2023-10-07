@@ -1,0 +1,5 @@
+- **URL :** https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/
+- **Description :** Developed by Magnet Forensics, this tool provides a free and simple way to capture the volatile memory of a system.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Memory acquisition]], [[DFIR]]

@@ -1,0 +1,5 @@
+- **URL :** https://actix.rs/
+- **Description :** Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
+- **Platforms :** [[Rust]]
+- **Category :** [[Tools]]
+- **Tags :** [[Framework]], [[Web application]], [[API]], [[HTTP]], [[REST]]

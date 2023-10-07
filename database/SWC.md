@@ -1,0 +1,5 @@
+- **URL :** https://swc.rs/
+- **Description :** SWC is an extensible Rust-based platform for the next generation of fast developer tools. It's used by tools like Next.js, Parcel, and Deno, as well as companies like Vercel, ByteDance, Tencent, Shopify, and more.
+- **Platforms :** [[Rust]]
+- **Category :** [[Tools]]
+- **Tags :** [[Compilation]], [[Bundler]], [[Javascript]], [[Typescript]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/mandiant/SilkETW
+- **Description :** SilkETW & SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection. While both projects have obvious defensive (and offensive) applications they should primarily be considered as research tools.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[SIEM]], [[Cyber Threat Intelligence]], [[Yara]]

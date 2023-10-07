@@ -1,0 +1,5 @@
+- **URL :** https://www.exterro.com/ftk-imager
+- **Description :** Developed by AccessData (now acquired by Exterro), FTK Imager is one of the most widely used disk imaging tools in the cybersecurity field. It allows us to create perfect copies (or images) of computer disks for analysis, preserving the integrity of the evidence. It also lets us view and analyze the contents of data storage devices without altering the data.
+- **Platforms :** [[Windows]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Disk imaging]]

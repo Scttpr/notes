@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/Partage_de_cl%C3%A9_secr%C3%A8te_de_Shamir
+- **Description :** Le **partage de clé secrète de Shamir** (_Shamir's Secret Sharing_) est un algorithme de [cryptographie](https://fr.wikipedia.org/wiki/Cryptographie "Cryptographie") créé par [Adi Shamir](https://fr.wikipedia.org/wiki/Adi_Shamir "Adi Shamir")[1](https://fr.wikipedia.org/wiki/Partage_de_cl%C3%A9_secr%C3%A8te_de_Shamir#cite_note-1). C'est une forme de [secret réparti](https://fr.wikipedia.org/wiki/Secret_r%C3%A9parti "Secret réparti"), où un secret est divisé en parties, donnant à chaque participant sa propre clé partagée, où certaines des parties ou l'ensemble d'entre elles sont nécessaires afin de reconstruire une phrase de passe qui donne accès au secret.
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Crypto]], [[Storage]]

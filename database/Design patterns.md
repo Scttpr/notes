@@ -1,0 +1,5 @@
+- **URL :** https://www.patterns.dev/posts
+- **Description :** A design pattern is a standard way to solve a recurring software design problem.
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Architecture]]

@@ -1,0 +1,5 @@
+- **URL :** https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/
+- **Description :** A simplistic utility that generates a physical memory dump of Windows and Linux machines. On Windows, it concatenates 32-bit and 64-bit system physical memory into a single output file, making it extremely easy to use.
+- **Platforms :** [[Windows]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Memory acquisition]]

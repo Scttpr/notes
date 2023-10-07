@@ -1,0 +1,5 @@
+- **URL :** https://learn.microsoft.com/en-us/windows/win32/secauthz/access-control-lists
+- **Description :** An [access control list](https://learn.microsoft.com/en-us/windows/desktop/SecGloss/a-gly) (ACL) is a list of [access control entries](https://learn.microsoft.com/en-us/windows/win32/secauthz/access-control-entries) (ACE). Each ACE in an ACL identifies a [trustee](https://learn.microsoft.com/en-us/windows/win32/secauthz/trustees) and specifies the [access rights](https://learn.microsoft.com/en-us/windows/win32/secauthz/access-rights-and-access-masks) allowed, denied, or audited for that trustee. The [security descriptor](https://learn.microsoft.com/en-us/windows/win32/secauthz/security-descriptors) for a [securable object](https://learn.microsoft.com/en-us/windows/win32/secauthz/securable-objects) can contain two types of ACLs: a _DACL_ and an _SACL_.
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[Active Directory]], [[ACL]]

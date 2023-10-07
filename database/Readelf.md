@@ -1,0 +1,5 @@
+- **URL :** https://man7.org/linux/man-pages/man1/readelf.1.html
+- **Description :** display information about ELF files
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[ELF]], [[Static analysis]]

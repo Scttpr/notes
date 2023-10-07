@@ -1,0 +1,5 @@
+- **URL :** https://github.com/dunglas/frankenphp
+- **Description :** FrankenPHP is a modern application server for PHP built on top of the [Caddy](https://caddyserver.com/) web server.
+- **Platforms :** [[Go]]
+- **Category :** [[Tools]]
+- **Tags :** [[PHP]], [[Web application]]

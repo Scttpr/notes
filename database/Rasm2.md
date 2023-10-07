@@ -1,0 +1,5 @@
+- **URL :** https://r2wiki.readthedocs.io/en/latest/tools/rasm2/
+- **Description :** radare2 assembler and disassembler tool
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Binaries]], [[CLI]], [[Radare2]], [[Static analysis]], [[Assembler]], [[Dissasembler]]

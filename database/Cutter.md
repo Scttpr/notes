@@ -1,0 +1,5 @@
+- **URL :** https://cutter.re/
+- **Description :** Free and Open Source RE Platform powered by Rizin
+- **Platforms :** [[Windows]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[Reverse engineering]], [[Binaries]], [[Dissasemble]]

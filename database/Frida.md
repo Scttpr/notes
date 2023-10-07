@@ -1,0 +1,5 @@
+- **URL :** https://frida.re/
+- **Description :** Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- **Platforms :** [[Windows]], [[Mac]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Dynamic analysis]], [[Instrumentation]]

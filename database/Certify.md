@@ -1,0 +1,5 @@
+- **URL :** https://github.com/GhostPack/Certify
+- **Description :** Certify is a C# tool to enumerate and abuse misconfigurations in Active Directory Certificate Services (AD CS).
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Active Directory]], [[Authentification]]

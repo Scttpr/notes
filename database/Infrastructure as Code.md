@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/Infrastructure_as_code
+- **Description :** L'_**Infrastructure as code**_ (**IaC**) (littéralement : « infrastructure en tant que code ») est un ensemble de mécanismes permettant de gérer, par des fichiers descripteurs ou des [scripts](https://fr.wikipedia.org/wiki/Langage_de_script "Langage de script") ([code informatique](https://fr.wikipedia.org/wiki/Code_informatique "Code informatique")), une infrastructure (informatique) [virtuelle](https://fr.wikipedia.org/wiki/Virtualisation "Virtualisation")[](https://fr.wikipedia.org/wiki/Infrastructure_as_code#cite_note-1)
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Cloud]], [[Declarative programming]]

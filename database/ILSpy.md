@@ -1,0 +1,5 @@
+- **URL :** https://github.com/icsharpcode/ILSpy
+- **Description :** ILSpy is the open-source .NET assembly browser and decompiler
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[CSharp]], [[Static analysis]], [[Debugger]], [[IDE]]

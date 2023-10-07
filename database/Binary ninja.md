@@ -1,0 +1,5 @@
+- **URL :** https://binary.ninja/
+- **Description :** Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers.
+- **Platforms :** [[Windows]], [[Mac]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Binaries]], [[Dissasembler]], [[Decompiler]], [[Debugger]], [[Dynamic analysis]], [[Static analysis]]

@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Xargs
+- **Description :** [command](https://en.wikipedia.org/wiki/Command_(computing) "Command (computing)") on [Unix](https://en.wikipedia.org/wiki/Unix "Unix") and most [Unix-like](https://en.wikipedia.org/wiki/Unix-like "Unix-like") [operating systems](https://en.wikipedia.org/wiki/Operating_system "Operating system") used to build and execute commands from [standard input](https://en.wikipedia.org/wiki/Standard_streams "Standard streams"). It converts input from standard input into arguments to a command
+- **Platforms :** [[Unix]]
+- **Category :** [[Tools]]
+- **Tags :** [[CLI]]

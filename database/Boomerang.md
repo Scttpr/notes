@@ -1,0 +1,5 @@
+- **URL :** https://boomerang.sourceforge.net/
+- **Description :** A general, open source, retargetable decompiler of machine code programs
+- **Platforms :** [[Windows]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Static analysis]], [[Decompiler]], [[C]]

@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** This type of malware stealthily gathers sensitive data and user activities without their consent. It can track online browsing habits, record keystrokes, and capture login credentials, posing a severe risk to privacy and security. The pilfered data is often sent to remote servers for harmful purposes.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

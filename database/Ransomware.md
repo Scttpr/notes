@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** This malicious type of malware encrypts files on the target's system, making them unreachable. Attackers then demand a ransom in return for the decryption key, effectively holding the victim's data to ransom. The impacts of ransomware attacks can debilitate organizations and individuals alike, leading to severe financial and reputational harm.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

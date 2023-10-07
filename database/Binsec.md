@@ -1,0 +1,5 @@
+- **URL :** https://github.com/binsec/binsec
+- **Description :** BINSEC is an open-source toolset to help improve software security at the binary level. It relies on cutting-edge research in binary code analysis, at the intersection of formal methods, program analysis, security and software engineering. It is powered up by state-of-the-art techniques such as binary-level formal methods, symbolic execution, abstract interpretation, SMT solving and fuzzing.
+- **Platforms :** [[OCaml]]
+- **Category :** [[Tools]]
+- **Tags :** [[Binaries]], [[Reverse engineering]], [[Dissasembler]], [[Dynamic analysis]], [[Static analysis]]

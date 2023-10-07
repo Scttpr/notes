@@ -1,0 +1,5 @@
+- **URL :** https://r2wiki.readthedocs.io/en/latest/tools/r2agent/
+- **Description :** radare2 remoting manager TODO
+- **Platforms :** [[Linux]] 
+- **Category :** [[Tools]]
+- **Tags :** [[Radare2]], [[CLI]]

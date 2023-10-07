@@ -1,0 +1,5 @@
+- **URL :** https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+- **Description :** This guide gives you all you need to get started with JavaScript module syntax.
+- **Platforms :** [[Javascript]]
+- **Category :** [[Documentation]]
+- **Tags :** [[Architecture]]

@@ -1,0 +1,5 @@
+- **URL :** https://nuejs.org/tools/
+- **Description :** Eventually Nue is a complete frontend development toolset. An alternative to ecosystems like Vite, Next.js, and Astro.
+- **Platforms :** [[Javascript]], [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web application]], [[Framework]], [[UI]], [[Nue.js]], [[Bundler]]

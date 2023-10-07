@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/Awk
+- **Description :** [langage](https://fr.wikipedia.org/wiki/Langage_de_script "Langage de script") de traitement de [fichiers plats](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_orient%C3%A9e_texte "Base de données orientée texte") par lignes, disponible sur la plupart des systèmes [Unix](https://fr.wikipedia.org/wiki/Unix "Unix")
+- **Platforms :** [[Unix]]
+- **Category :** [[Tools]]
+- **Tags :** [[CLI]]

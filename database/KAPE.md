@@ -1,0 +1,5 @@
+- **URL :** https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
+- **Description :** KAPE is a triage program designed to help in collecting and parsing artifacts in a quick and effective manner. It focuses on targeted collection, reducing the volume of collected data and the time required for analysis. KAPE is free for use and is an essential tool in our digital forensics toolkit.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]]

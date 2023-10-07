@@ -1,0 +1,5 @@
+- **URL :** https://r2wiki.readthedocs.io/en/latest/tools/ragg2/
+- **Description :** radare2 frontend for r_egg, compile programs into tiny binaries for x86-32/64 and arm
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Binaries]], [[CLI]], [[Radare2]], [[Static analysis]], [[Compiler]]

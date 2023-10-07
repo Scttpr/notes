@@ -1,0 +1,5 @@
+- **URL :** https://inertiajs.com/
+- **Description :** Create **modern single-page React, Vue, and Svelte apps** using classic server-side routing. Works with any backend — tuned for Laravel. 
+- **Platforms :** [[Typescript]], [[PHP]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web application]], [[Framework]], [[Backend]], [[Laravel]], [[Vite.js]], [[Vue.js]]

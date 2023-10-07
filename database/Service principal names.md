@@ -1,0 +1,5 @@
+- **URL :** https://learn.microsoft.com/en-us/windows/win32/ad/service-principal-names
+- **Description :** A _service principal name (SPN)_ is a unique identifier of a service instance. [Kerberos authentication](https://learn.microsoft.com/en-us/windows/win32/ad/mutual-authentication-using-kerberos) uses SPNs to associate a service instance with a service sign-in account.
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[Authentification]], [[Active Directory]], [[Kerberos]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/ytisf/theZoo
+- **Description :** theZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[Reverse engineering]]

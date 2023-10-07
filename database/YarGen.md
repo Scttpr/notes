@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Neo23x0/yarGen
+- **Description :** Generator for [YARA](https://github.com/plusvic/yara/) rules
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Yara]], [[Malware]], [[DFIR]], [[SIEM]], [[Cyber Threat Intelligence]]

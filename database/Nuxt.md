@@ -1,0 +1,5 @@
+- **URL :** https://nuxt.com/
+- **Description :** The Intuitive Web Framework
+- **Platforms :** [[Javascript]], [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web application]], [[Framework]], [[Vue.js]], [[UI]]

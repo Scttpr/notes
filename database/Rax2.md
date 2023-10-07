@@ -1,0 +1,5 @@
+- **URL :** https://book.rada.re/tools/rax2/intro.html
+- **Description :** The rax2 utility comes with the radare framework and aims to be a minimalistic expression evaluator for the shell. It is useful for making base conversions between floating point values, hexadecimal representations, hexpair strings to ascii, octal to integer. It supports endianness conversion.
+- **Platforms :** [[C]] 
+- **Category :** [[Tools]]
+- **Tags :** [[Radare2]], [[CLI]], [[Convertor]]

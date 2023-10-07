@@ -1,0 +1,5 @@
+- **URL :** https://www.monodevelop.com/
+- **Description :** Cross platform IDE for C#, F# and more
+- **Platforms :** [[Windows]], [[Linux]], [[Mac]]
+- **Category :** [[Tools]]
+- **Tags :** [[IDE]], [[CSharp]], [[Debugger]], [[Reverse engineering]]

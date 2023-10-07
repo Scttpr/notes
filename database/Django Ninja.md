@@ -1,0 +1,5 @@
+- **URL :** https://django-ninja.rest-framework.com/
+- **Description :** Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Framework]], [[Django]], [[API]], [[REST]], [[OpenAPI]]

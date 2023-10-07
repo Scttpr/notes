@@ -1,0 +1,5 @@
+- **URL :** https://noyaml.com/
+- **Description :** Why YAML is the right devops technology for you
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[YAML]]

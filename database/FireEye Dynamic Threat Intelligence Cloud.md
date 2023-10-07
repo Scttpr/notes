@@ -1,0 +1,5 @@
+- **URL :** https://www.threatprotectworks.com/Dynamic-Threat-Intelligence-cloud.asp
+- **Description :** The FireEye Dynamic Threat Intelligence cloud interconnects FireEye appliances deployed within customer networks, technology partner networks, and service providers around the world. This worldwide cloud efficiently shares auto-generated malware security intelligence, such as covert callback channels, as well as new threat findings from the FireEye Malware Intelligence Lab.
+- **Platforms :** *
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[DFIR]], [[Dynamic analysis]]

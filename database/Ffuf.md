@@ -1,0 +1,5 @@
+- **URL :** https://github.com/ffuf/ffuf
+- **Description :** A fast web fuzzer written in Go.
+- **Platforms :** [[Go]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web]], [[Fuzzer]], [[Reconnaissance]]

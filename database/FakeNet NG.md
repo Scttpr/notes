@@ -1,0 +1,5 @@
+- **URL :** https://github.com/mandiant/flare-fakenet-ng
+- **Description :** FakeNet-NG 3.0 (alpha) is a next generation dynamic network analysis tool for malware analysts and penetration testers. It is open source and designed for the latest versions of Windows (and Linux, for certain modes of operation). FakeNet-NG is based on the excellent Fakenet tool developed by Andrew Honig and Michael Sikorski. The tool allows you to intercept and redirect all or specific network traffic while simulating legitimate network services. Using FakeNet-NG, malware analysts can quickly identify malware's functionality and capture network signatures. Penetration testers and bug hunters will find FakeNet-NG's configurable interception engine and modular framework highly useful when testing application's specific functionality and prototyping PoCs.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[DFIR]], [[Network]]

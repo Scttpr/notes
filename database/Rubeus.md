@@ -1,0 +1,5 @@
+- **URL :** https://github.com/GhostPack/Rubeus
+- **Description :** Rubeus is a C# toolset for raw Kerberos interaction and abuses.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Kerberos]], [[Active Directory]], [[Kerberoasting]]

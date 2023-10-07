@@ -1,0 +1,5 @@
+- **URL :** https://processhacker.sourceforge.io/
+- **Description :** A **free**, powerful, multi-purpose tool that helps you **monitor system resources**, **debug software** and **detect malware**.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Debugger]], [[Malware]], [[Monitoring]]

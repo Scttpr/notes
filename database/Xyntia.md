@@ -1,0 +1,5 @@
+- **URL :** https://github.com/binsec/xyntia
+- **Description :** Xyntia is a standalone tool which takes I/O example as input and synthesize a corresponding expression. Still, in practice, you do not want to give these I/O examples by hand.
+- **Platforms :** [[OCaml]]
+- **Category :** [[Tools]]
+- **Tags :** [[Deobfuscation]], [[Obfuscation]]

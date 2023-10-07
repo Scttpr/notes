@@ -1,0 +1,5 @@
+- **URL :** https://github.com/angr/claripy
+- **Description :** Claripy is an abstracted constraint-solving wrapper.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Angr]]

@@ -1,0 +1,5 @@
+- **URL :** https://man7.org/linux/man-pages/man1/hexdump.1.html
+- **Description :** display file contents in hexadecimal, decimal, octal, or ascii
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Hexadecimal]], [[Convertor]], [[Static analysis]]

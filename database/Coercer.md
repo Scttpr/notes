@@ -1,0 +1,5 @@
+- **URL :** https://github.com/p0dalirius/Coercer
+- **Description :** A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through many methods.
+- **Platforms :** [[Windows]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Active Directory]]

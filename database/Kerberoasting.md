@@ -1,0 +1,5 @@
+- **URL :** https://www.crowdstrike.fr/cybersecurity-101/kerberoasting/
+- **Description :** Le Kerberoasting est une technique d’attaque post-exploitation qui tente de craquer le mot de passe d’un compte de service au sein d’Active Directory (AD).
+- **Platforms :** [[Windows]]
+- **Category :** [[Technique]]
+- **Tags :** [[Active Directory]], [[Kerberos]], [[Authentification]]

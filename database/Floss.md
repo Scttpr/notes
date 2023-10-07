@@ -1,0 +1,5 @@
+- **URL :** https://github.com/mandiant/flare-floss
+- **Description :** The FLARE Obfuscated String Solver (FLOSS, formerly FireEye Labs Obfuscated String Solver) uses advanced static analysis techniques to automatically extract and deobfuscate all strings from malware binaries. You can use it just like `strings.exe` to enhance the basic static analysis of unknown binaries.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Static analysis]], [[Malware]], [[Obfuscation]]

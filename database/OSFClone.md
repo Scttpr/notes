@@ -1,0 +1,5 @@
+- **URL :** https://www.osforensics.com/tools/create-disk-images.html
+- **Description :** A free, open-source utility designed for the task of creating and cloning forensic disk images. It's easy to use and supports a wide variety of file systems.
+- **Platforms :** [[Windows]], [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Disk imaging]]

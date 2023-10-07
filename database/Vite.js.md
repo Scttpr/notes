@@ -1,0 +1,5 @@
+- **URL :** https://vitejs.dev/
+- **Description :** Next Generation Frontend Tooling
+- **Platforms :** [[Javascript]], [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Bundler]], [[ES modules]], [[Hot Module Replacement]]

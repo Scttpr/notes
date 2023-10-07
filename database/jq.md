@@ -1,0 +1,5 @@
+- **URL :** https://github.com/jqlang/jq
+- **Description :** jq is a lightweight and flexible command-line JSON processor
+- **Platforms :** [[C]]
+- **Category :** [[Tools]]
+- **Tags :** [[CLI]], [[JSON]], [[Parser]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Unode/firefox_decrypt
+- **Description :** **Firefox Decrypt** is a tool to extract passwords from profiles of Mozilla (Fire/Water)fox™, Thunderbird®, SeaMonkey® and derivates.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Cracking]], [[Crypto]], [[DFIR]], [[Password]]

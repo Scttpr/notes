@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Rurik/Noriben
+- **Description :** Noriben is a Python-based script that works in conjunction with Sysinternals Procmon to automatically collect, analyze, and report on runtime indicators of malware. In a nutshell, it allows you to run an applications, hit a keypress, and get a simple text report of the sample's activities.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[Dynamic analysis]], [[DFIR]]

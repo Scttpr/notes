@@ -1,0 +1,5 @@
+- **URL :** https://cocomelonc.github.io/malware/2022/11/05/malware-analysis-6.html
+- **Description :** Shannon entropy is the quantity of information included inside a message, in communication terminology. Entropy is a measure of the unpredictability of the file’s data. The Shannon entropy is named after the famous mathematician Shannon Claude.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]], [[Static analysis]], [[Reverse engineering]]

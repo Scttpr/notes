@@ -1,0 +1,5 @@
+- **URL :** https://linux.die.net/man/8/kpartx
+- **Description :** This tool, derived from util-linux' partx, reads partition tables on specified device and create device maps over partitions segments detected. It is called from hotplug upon device maps creation and deletion
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[]]

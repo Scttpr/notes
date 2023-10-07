@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** Worms are autonomous malware capable of multiplying across networks without needing human intervention. They exploit network weaknesses to infiltrate systems without permission. Once inside, they can either deliver damaging payloads or keep multiplying to other vulnerable devices. Worms can initiate swift and escalating infections, resulting in enormous disruption and even potential denial of service attacks.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

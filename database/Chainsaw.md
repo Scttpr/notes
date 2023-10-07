@@ -1,0 +1,5 @@
+- **URL :** https://github.com/WithSecureLabs/chainsaw
+- **Description :** Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows forensic artefacts such as Event Logs and MFTs. Chainsaw offers a generic and fast method of searching through event logs for keywords, and by identifying threats using built-in support for Sigma detection rules, and via custom Chainsaw detection rules.
+- **Platforms :** [[Windows]], [[Linux]], [[Mac]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Sigma]], [[Cyber Threat Intelligence]], [[Event Tracing For Windows]]

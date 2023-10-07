@@ -1,0 +1,5 @@
+- **URL :** https://www.autopsy.com/
+- **Description :** user-friendly forensic platform built atop the open-source Sleuth Kit toolset. It mirrors many features you'd find in its commercial counterparts: timeline assessments, keyword hunts, web and email artifact retrievals, and the ability to sift results based on known malicious file hashes.
+- **Platforms :** *
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[SleuthKit]], [[Disk forensics]]

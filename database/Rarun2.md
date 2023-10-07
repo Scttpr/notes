@@ -1,0 +1,5 @@
+- **URL :** https://r2wiki.readthedocs.io/en/latest/tools/rarun2/
+- **Description :** radare2 utility to run programs in exotic environments
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Binaries]], [[CLI]], [[Radare2]], [[Dynamic analysis]]

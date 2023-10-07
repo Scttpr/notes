@@ -1,0 +1,5 @@
+- **URL :** https://github.com/irsl/curlshell
+- **Description :** During security research, you may end up running code in an environment, where establishing raw TCP connections to the outside world is not possible; outgoing connection may only go through a connect proxy (HTTPS_PROXY). This simple interactive HTTP server provides a way to mux stdin/stdout and stderr of a remote reverse shell over that proxy with the help of curl.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Shell]], [[Reverse shell]], [[HTTP]], [[Curl]]

@@ -1,0 +1,5 @@
+- **URL :** https://x64dbg.com/
+- **Description :** An open-source x64/x32 debugger for windows
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Debugger]], [[DFIR]], [[Malware]]

@@ -1,0 +1,5 @@
+- **URL :** https://www.cheatengine.org/
+- **Description :** Cheat Engine is a tool designed to help you with modifying single player games without internet connection so you can make them harder or easier depending on your preference(e.g: Find that 100hp is too easy, try playing a game with a max of 1 HP), but also contains other usefull tools to help debugging games and even normal applications, and helps you protect your system by letting you inspect memory modifications by backdoors and even contains some ways to unhide them from conventional means.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Godot]], [[Dynamic analysis]]

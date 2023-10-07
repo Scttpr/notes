@@ -1,0 +1,5 @@
+- **URL :** https://infrastructurefromcode.com/
+- **Description :** IfC lets developers leverage their **existing programming skills**, allowing them to focus on writing **business logic** instead of learning and configuring **constantly evolving cloud services**. IfC provides a translation layer that automatically enables cloud best practices while making developers **hyperproductive**.
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Infrastructure as Code]], [[Cloud]]

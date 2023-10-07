@@ -1,0 +1,5 @@
+- **URL :** https://panda-css.com
+- **Description :** CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience
+- **Platforms :** [[Javascript]], [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[CSS]], [[Vue.js]], [[Nuxt]], [[Next.js]], [[React.js]]

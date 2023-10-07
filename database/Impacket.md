@@ -1,0 +1,5 @@
+- **URL :** https://github.com/fortra/impacket
+- **Description :** Impacket is a collection of Python classes for working with network protocols.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Network]], [[Ethernet]], [[TCP]], [[UDP]], [[IP]], [[SMB]], [[Kerberos]], [[NTLM]], [[LDAP]]

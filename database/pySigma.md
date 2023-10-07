@@ -1,0 +1,5 @@
+- **URL :** https://github.com/SigmaHQ/pySigma
+- **Description :** `pySigma` is a python library that parses and converts Sigma rules into queries. It is a replacement for the legacy Sigma toolchain (sigmac) with a much cleaner design and is almost fully tested. Backends for support of conversion into query languages and processing pipelines for transforming rule for log data models are separated into dedicated projects to keep pySigma itself slim and vendor-agnostic. See the _Related Projects_ section below to get an overview.
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[SIEM]], [[Monitoring]]

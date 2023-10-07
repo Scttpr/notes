@@ -1,0 +1,5 @@
+- **URL :** https://suricata.io/
+- **Description :** Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+- **Platforms :** [[Windows]], [[Linux]], [[FreeBSD]], [[Mac]]
+- **Category :** [[Tools]]
+- **Tags :** [[SIEM]], [[IDSxIPS]]

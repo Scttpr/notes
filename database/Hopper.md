@@ -1,0 +1,5 @@
+- **URL :** https://www.hopperapp.com/
+- **Description :** Hopper Disassembler, the reverse engineering tool that lets you disassemble, decompile and debug your applications.
+- **Platforms :** [[Linux]], [[Mac]]
+- **Category :** [[Tools]]
+- **Tags :** [[Static analysis]], [[Dissasembler]], [[Reverse engineering]]

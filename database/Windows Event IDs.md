@@ -1,0 +1,15 @@
+- **URL :** https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+- **Description :** List of windows event IDs
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[DFIR]], [[SIEM]], [[Active Directory]], [[Windows Event logs]]
+
+- `4624` - Successful logon
+- `4625` - Failed logon
+- `4662` - An operation was performed on an object
+- `4663` - Logon attempt
+- `4768` - Kerberos Authentication ticket generated
+- `4769` - Kerberos service ticket requested
+- `4771` - Kerberos pre-authentication failed
+- `4776` - The domain controller attempted to validate the credentials for an account
+- `5136` - A directory service object was modified (if `Directory Service Changes auditing` is enabled)

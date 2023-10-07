@@ -1,0 +1,5 @@
+- **URL :** https://www.mono-project.com/docs/tools+libraries/tools/monodis/
+- **Description :** NET "reversing" tool
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[Static analysis]], [[.NET]], [[Dissasemble]]

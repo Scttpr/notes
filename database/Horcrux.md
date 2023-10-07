@@ -1,0 +1,5 @@
+- **URL :** https://github.com/jesseduffield/horcrux
+- **Description :** Split your file into encrypted horcruxes so that you don't need to remember a passcode
+- **Platforms :** [[Go]]
+- **Category :** [[Tools]]
+- **Tags :** [[Crypto]], [[Storage]], [[Shamir's Secret Sharing]]

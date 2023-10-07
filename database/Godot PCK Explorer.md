@@ -1,0 +1,5 @@
+- **URL :** https://github.com/DmitriySalnikov/GodotPCKExplorer
+- **Description :** It is a viewer and editor for Godot Engine's PCK files with the ability to extract content and create new packages. Supports Godot 3 and 4.
+- **Platforms :** [[CSharp]]
+- **Category :** [[Tools]]
+- **Tags :** [[Godot]], [[Decompiler]]

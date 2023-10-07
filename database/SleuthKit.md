@@ -1,0 +1,5 @@
+- **URL :** https://www.sleuthkit.org/
+- **Description :** [The Sleuth Kit®](https://www.sleuthkit.org/sleuthkit/) is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
+- **Platforms :** *
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Disk forensics]]

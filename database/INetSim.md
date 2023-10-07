@@ -1,0 +1,5 @@
+- **URL :** https://www.inetsim.org/
+- **Description :** INetSim is a software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[DFIR]]

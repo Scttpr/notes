@@ -1,0 +1,5 @@
+- **URL :** https://github.com/darkoperator/Veil-PowerView
+- **Description :** Veil's PowerTools are a collection of PowerShell projects with a focus on offensive operations.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Active Directory]], [[Powershell]]

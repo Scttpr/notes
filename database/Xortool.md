@@ -1,0 +1,5 @@
+- **URL :** https://github.com/hellman/xortool
+- **Description :** A tool to do some xor analysis
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Crypto]], [[Xor]]

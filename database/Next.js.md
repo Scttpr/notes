@@ -1,0 +1,5 @@
+- **URL :** https://nextjs.org/
+- **Description :** The React Framework for the Web
+- **Platforms :** [[Javascript]], [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web application]], [[React.js]], [[Framework]], [[UI]]

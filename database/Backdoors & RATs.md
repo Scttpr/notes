@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** Backdoors and RATs are crafted to offer unauthorized access and control over compromised systems from remote locations. Attackers can leverage them to retain prolonged control, extract data, or instigate additional attacks.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/skylot/jadx
+- **Description :** Command line and GUI tools for producing Java source code from Android Dex and Apk files
+- **Platforms :** [[Java]]
+- **Category :** [[Tools]]
+- **Tags :** [[Static analysis]], [[Decompiler]], [[Android]]

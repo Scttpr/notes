@@ -1,0 +1,5 @@
+- **URL :** https://github.com/harness/gitness
+- **Description :** Gitness is an open source development platform packed with the power of code hosting and automated DevOps pipelines.
+- **Platforms :** [[Go]]
+- **Category :** [[Tools]]
+- **Tags :** [[CIxCD]], [[Git]], [[API]], [[CLI]]

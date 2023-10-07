@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Strategy_pattern
+- **Description :** In [computer programming](https://en.wikipedia.org/wiki/Computer_programming "Computer programming"), the **strategy pattern** (also known as the **policy pattern**) is a [behavioral](https://en.wikipedia.org/wiki/Behavioral_design_pattern "Behavioral design pattern") [software design pattern](https://en.wikipedia.org/wiki/Design_pattern_(computer_science) "Design pattern (computer science)") that enables selecting an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") at runtime. Instead of implementing a single algorithm directly, code receives run-time instructions as to which in a family of algorithms to use.
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Design patterns]], [[Architecture]]

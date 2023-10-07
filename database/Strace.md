@@ -1,0 +1,5 @@
+- **URL :** https://man7.org/linux/man-pages/man1/strace.1.html
+- **Description :** Trace system calls and signals
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Dynamic analysis]]

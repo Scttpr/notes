@@ -1,0 +1,5 @@
+- **URL :** https://www.joesandbox.com/#windows
+- **Description :** Malware analysis sandbox
+- **Platforms :** [[Windows]], [[Linux]], [[Mac]], [[Android]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[Dynamic analysis]], [[DFIR]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/dai-shi/waku
+- **Description :** Minimalistic React Framework
+- **Platforms :** [[Typescript]]
+- **Category :** [[Tools]]
+- **Tags :** [[Framework]], [[React.js]], [[React Server Components]]

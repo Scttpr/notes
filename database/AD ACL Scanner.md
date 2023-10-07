@@ -1,0 +1,5 @@
+- **URL :** https://github.com/canix1/ADACLScanner
+- **Description :** Create reports of `discretionary access control lists` (`DACLs`) and `system access control lists` (`SACLs`).
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Active Directory]], [[ACL]], [[Reporting]]

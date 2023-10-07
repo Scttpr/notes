@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/Microsoft_SQL_Server
+- **Description :** _**Microsoft SQL Server**_ est un [système de gestion de base de données](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es "Système de gestion de base de données") (SGBD) en langage [SQL](https://fr.wikipedia.org/wiki/Structured_Query_Language "Structured Query Language") incorporant entre autres un SGBDR (SGBD [relationnel](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_relationnelle "Base de données relationnelle") ») développé et commercialisé par la société [Microsoft](https://fr.wikipedia.org/wiki/Microsoft "Microsoft"). Il fonctionne sous les OS Windows et Linux (depuis mars 2016), mais il est possible de le lancer sur Mac OS via [Docker](https://fr.wikipedia.org/wiki/Docker_(logiciel) "Docker (logiciel)"), car il en existe une version en téléchargement sur le site de Microsoft
+- **Platforms :** *
+- **Category :** [[Tools]]
+- **Tags :** [[Database]], [[SQL]], [[Relational]], [[Windows]]

@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Object-oriented_programming
+- **Description :** **Object-oriented programming** (**OOP**) is a [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm "Programming paradigm") based on the concept of _[objects](https://en.wikipedia.org/wiki/Object_(computer_science) "Object (computer science)")_, which can contain [data](https://en.wikipedia.org/wiki/Data "Data") and [code](https://en.wikipedia.org/wiki/Computer_program "Computer program"). The data is in the form of [fields](https://en.wikipedia.org/wiki/Field_(computer_science) "Field (computer science)") (often known as [attributes](https://en.wikipedia.org/wiki/Attribute_(computing) "Attribute (computing)") or _[properties](https://en.wikipedia.org/wiki/Property_(programming) "Property (programming)")_), and the code is in the form of procedures (often known as _[methods](https://en.wikipedia.org/wiki/Method_(computer_science) "Method (computer science)")_).
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Architecture]]

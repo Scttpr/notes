@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Velocidex/WinPmem
+- **Description :** **WinPmem** has been the default open source memory acquisition driver for windows for a long time. It used to live in the Rekall project, but has recently been separated into its own repository.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Memory acquisition]]

@@ -1,0 +1,5 @@
+- **URL :** https://bun.sh/
+- **Description :** Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun. Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, [test runner](https://bun.sh/docs/cli/test), and Node.js-compatible [package manager](https://bun.sh/package-manager).
+- **Platforms :** [[Windows]], [[Linux]], [[Mac]]
+- **Category :** [[Tools]]
+- **Tags :** [[Javascript]], [[Typescript]], [[Runtime]], [[Zig]]

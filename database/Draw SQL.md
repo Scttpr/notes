@@ -1,0 +1,5 @@
+- **URL :** https://drawsql.app/
+- **Description :** Design, visualize and collaborate on entity relationship diagrams for your databases
+- **Platforms :** *
+- **Category :** [[Tools]]
+- **Tags :** [[SQL]], [[Diagram]], [[Database]]

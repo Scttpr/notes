@@ -1,0 +1,5 @@
+- **URL :** http://ref.x86asm.net/coder32.html
+- **Description :** X86 Opcode and Instruction Reference Home
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Assembler]], [[Reverse engineering]]

@@ -1,0 +1,5 @@
+- **URL :** https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/dcsync
+- **Description :** `DCSync` is an attack that threat agents utilize to impersonate a Domain Controller and perform replication with a targeted Domain Controller to extract password hashes from Active Directory.
+- **Platforms :** [[Windows]]
+- **Category :** [[Technique]]
+- **Tags :** [[Active Directory]]

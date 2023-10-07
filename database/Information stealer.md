@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** These are tailored to target and extract sensitive data, like login credentials, personal information, or intellectual property, for harmful purposes. This includes identity theft or selling the data on the dark web.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

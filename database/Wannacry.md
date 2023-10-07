@@ -1,0 +1,5 @@
+- **URL :** https://www.mandiant.com/resources/blog/wannacry-malware-profile
+- **Description :** WannaCry (also known as WCry or WanaCryptor) malware is a self-propagating (worm-like) ransomware that spreads through internal networks and over the public internet by exploiting a vulnerability in Microsoft’s Server Message Block (SMB) protocol, MS17-010. The [WannaCry](https://www.mandiant.com/blog/products-and-services/2017/05/wannacry-ransomware-campaign.html) malware consists of two distinct components, one that provides ransomware functionality and a component used for propagation, which contains functionality to enable SMB exploitation capabilities.
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]], [[Yara]], [[Cyber Threat Intelligence]], [[DFIR]]

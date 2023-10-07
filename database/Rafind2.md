@@ -1,0 +1,5 @@
+- **URL :** https://r2wiki.readthedocs.io/en/latest/tools/rafind2/
+- **Description :** Advanced commandline hexadecimal editor
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Binaries]], [[CLI]], [[Radare2]], [[Static analysis]], [[Hexadecimal]]

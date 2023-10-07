@@ -1,0 +1,5 @@
+- **URL :** https://github.com/504ensicsLabs/LiME
+- **Description :** LiME is a Loadable Kernel Module (LKM) which allows the acquisition of volatile memory. LiME is unique in that it's designed to be transparent to the target system, evading many common anti-forensic measures.
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Memory acquisition]]

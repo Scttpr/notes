@@ -1,0 +1,5 @@
+- **URL :** https://cuckoosandbox.org/
+- **Description :** Cuckoo Sandbox is the **leading open source automated malware analysis system**.
+- **Platforms :** [[Windows]], [[Linux]], [[Mac]], [[Android]]
+- **Category :** [[Tools]]
+- **Tags :** [[Malware]], [[Dynamic analysis]], [[DFIR]]

@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** These are a kind of malware used to transport and install extra malicious payloads onto infected systems. They serve as a conduit for other malware, ensuring the covert installation and execution of more sophisticated threats.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

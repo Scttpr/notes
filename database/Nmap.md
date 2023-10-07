@@ -1,0 +1,5 @@
+- **URL :** https://nmap.org/
+- **Description :** Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing.
+- **Platforms :** [[Linux]], [[Mac]], [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Network]], [[Reconnaissance]]

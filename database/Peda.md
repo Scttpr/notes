@@ -1,0 +1,5 @@
+- **URL :** https://github.com/longld/peda
+- **Description :** Python Exploit Development Assistance for GDB
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Gdb]], [[Debugger]]

@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Declarative_programming
+- **Description :** In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), **declarative programming** is a [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm "Programming paradigm")—a style of building the structure and elements of computer programs—that expresses the logic of a [computation](https://en.wikipedia.org/wiki/Computation "Computation") without describing its [control flow](https://en.wikipedia.org/wiki/Control_flow)
+- **Platforms :** *
+- **Category :** [[Technique]]
+- **Tags :** [[Architecture]]

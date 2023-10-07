@@ -1,0 +1,5 @@
+- **URL :** https://github.com/vivami/SauronEye
+- **Description :** SauronEye is a search tool built to aid red teams in finding files containing specific keywords.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** 

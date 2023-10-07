@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Velocidex/velociraptor
+- **Description :** Velociraptor is a versatile tool designed for host-based incident response and digital forensics. It allows for quick, targeted data collection across a wide number of machines. Velociraptor employs Velocidex Query Language (VQL), a powerful tool to collect and manipulate artifacts. The open-source nature of Velociraptor makes it a valuable free tool in our arsenal.
+- **Platforms :** [[Windows]], [[Linux]], [[Mac]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Cyber Threat Intelligence]]

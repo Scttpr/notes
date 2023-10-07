@@ -1,0 +1,5 @@
+- **URL :** https://www.crowdstrike.fr/cybersecurity-101/golden-ticket-attack/
+- **Description :** The `Kerberos Golden Ticket` is an attack in which threat agents can create/generate tickets for any user in the Domain, therefore effectively acting as a Domain Controller.
+- **Platforms :** [[Windows]]
+- **Category :** [[Technique]]
+- **Tags :** [[Active Directory]], [[Kerberos]]

@@ -1,0 +1,5 @@
+- **URL :** https://kubernetes.io/fr/
+- **Description :** [Kubernetes (K8s)](https://kubernetes.io/fr/docs/concepts/overview/what-is-kubernetes/) est un système open-source permettant d'automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.
+- **Platforms :** *
+- **Category :** [[Tools]]
+- **Tags :** [[Cloud]], [[OCI]], [[Orchestrator]]

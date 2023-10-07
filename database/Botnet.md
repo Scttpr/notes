@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** These are networks of compromised devices, often referred to as bots or zombies, controlled by a central command-and-control (C2) server. Botnets can be exploited for a variety of harmful activities, including launching DDoS attacks, spreading spam, or disseminating other malware.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Malware]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/patriciogonzalezvivo/thebookofshaders
+- **Description :** This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[UI]], [[3D]]

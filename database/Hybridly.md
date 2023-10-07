@@ -1,0 +1,5 @@
+- **URL :** https://hybridly.dev/
+- **Description :** Server-driven, client-rendered applications. Build single-page applications the classic way. No API, no route duplication, no front-end state. Fully server-driven.
+- **Platforms :** [[Typescript]], [[PHP]]
+- **Category :** [[Tools]]
+- **Tags :** [[Web application]], [[Framework]], [[Backend]], [[Laravel]], [[Vite.js]], [[Vue.js]]

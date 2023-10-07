@@ -1,0 +1,5 @@
+- **URL :** https://github.com/dnSpy/dnSpy
+- **Description :** dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features:
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Reverse engineering]], [[.NET]], [[Static analysis]], [[Debugger]], [[IDE]]
