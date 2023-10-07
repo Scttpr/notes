@@ -12,11 +12,11 @@ Current architecture is based on those features to build up a graph from my note
 ## Template
 A fully featured node is based on this template:
 ```md
-- __URL:__ <url for documentation or online resource to retrieve information>
-- __Description:__ <quick description to understand key points>
-- __Platforms:__ <either os or language concerned by the node>
-- __Category:__ <either Tools, Technique or Documentation>
-- __Tags:__ <all backlinks, even it does not exist, it creates backlinks>
+- URL: <url for documentation or online resource to retrieve information>
+- Description: <quick description to understand key points>
+- Platforms: <either os or language concerned by the node>
+- Category: <either Tools, Technique or Documentation>
+- Tags: <all backlinks, even it does not exist, it creates backlinks>
 ```
 In a perfect world we want everything to be correctly filled in. In the real world, we want to keep going and come back after to clean everything. 
 
