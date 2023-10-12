@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** PowerShell transcripts meticulously log both the commands issued and their respective outputs during a PowerShell session. Occasionally, within a user's documents directory, we might stumble upon PowerShell transcript files. These files grant us a window into the recorded PowerShell activities on the system.
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[DFIR]], [[Windows execution artifacts]], [[FTK Imager]]

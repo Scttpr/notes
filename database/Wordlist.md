@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** A Wordlist is _**a written collection of all words derived from a particular source, or sharing some other characteristic.**_
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Password]], [[Brute force]]

@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** When we talk about `execution artifacts` in digital forensics, we're referring to the traces and evidence left behind on a computer system or device when a program runs. These little bits of information can clue us in on the activities and behaviors of software, users, and even those with malicious intent. If we want to piece together what went down on a computer, diving into these execution artifacts is a must.
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[DFIR]]

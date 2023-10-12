@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** The `Background Activity Moderator` (BAM) is a component in the Windows operating system that tracks and logs the execution of certain types of background or scheduled tasks. BAM is actually a kernel device driver
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[DFIR]], [[Windows execution artifacts]], [[Registry explorer]], [[RegRipper]]

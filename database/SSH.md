@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Secure_Shell
+- **Description :** The **Secure Shell Protocol** (**SSH**) is a [cryptographic](https://en.wikipedia.org/wiki/Cryptography "Cryptography") [network protocol](https://en.wikipedia.org/wiki/Network_protocol "Network protocol") for operating [network services](https://en.wikipedia.org/wiki/Network_service "Network service") securely over an unsecured network. Its most notable applications are remote [login](https://en.wikipedia.org/wiki/Login "Login") and [command-line](https://en.wikipedia.org/wiki/Command-line_interface "Command-line interface") execution.
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Application layer]], [[Transport layer]], [[Protocole]]

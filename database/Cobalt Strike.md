@@ -1,0 +1,5 @@
+- **URL :** https://www.cobaltstrike.com/
+- **Description :** Software for Adversary Simulations and Red Team Operations
+- **Platforms :** 
+- **Category :** [[Tools]]
+- **Tags :** [[Red team]], [[Windows]]

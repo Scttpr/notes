@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Internet_Relay_Chat
+- **Description :** **Internet Relay Chat** (**IRC**) is a text-based chat system for [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging "Instant messaging"). IRC is designed for [group communication](https://en.wikipedia.org/wiki/Many-to-many "Many-to-many") in discussion forums, called _[channels](https://en.wikipedia.org/wiki/Internet_Relay_Chat#Channels)_, but also allows one-on-one communication via [private messages](https://en.wikipedia.org/wiki/Instant_messaging "Instant messaging") as well as [chat and data transfer](https://en.wikipedia.org/wiki/Direct_Client-to-Client "Direct Client-to-Client"), including [file sharing](https://en.wikipedia.org/wiki/File_sharing "File sharing").
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Protocole]], [[Instant messaging]]

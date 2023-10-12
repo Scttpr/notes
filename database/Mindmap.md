@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Ignitetechnologies/Mindmap
+- **Description :** This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Tools]]

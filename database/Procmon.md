@@ -2,4 +2,4 @@
 - **Description :** Process Monitor est un outil de surveillance avancé pour Windows qui indique l’activité du système de fichiers, du Registre et des processus/threads en temps réel. Il combine les fonctionnalités de deux utilitaires Sysinternals hérités, _Filemon_ et _Regmon_, et ajoute une liste complète d’améliorations, notamment un filtrage enrichi et non destructeur, des propriétés d’événement complètes telles que les ID de session et les noms d’utilisateur, des informations de processus fiables, des piles de threads complètes avec prise en charge des symboles intégrée pour chaque opération, la journalisation simultanée dans un fichier, etc. Ses fonctionnalités particulièrement puissantes font de Process Monitor un utilitaire de base dans votre kit de ressources de résolution des problèmes système et de recherche de programmes malveillants.
 - **Platforms :** [[Windows]]
 - **Category :** [[Tools]]
-- **Tags :** [[DFIR]], [[Monitoring]], [[Registries]], [[Malware]]
+- **Tags :** [[DFIR]], [[Monitoring]], [[Windows registry]], [[Malware]]

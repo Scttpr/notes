@@ -1,0 +1,5 @@
+- **URL :** https://ericzimmerman.github.io/#!index.md
+- **Description :** $MFT, $Boot, $J, $SDS, $I30, and $LogFile (coming soon) parser. Handles locked files
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Disk forensics]], [[Zimmerman tools]], [[Timestomping]]

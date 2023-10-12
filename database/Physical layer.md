@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Physical_layer
+- **Description :** In the seven-layer [OSI model](https://en.wikipedia.org/wiki/OSI_model "OSI model") of [computer networking](https://en.wikipedia.org/wiki/Computer_network "Computer network"), the **physical layer** or **layer 1** is the first and lowest layer: the layer most closely associated with the physical connection between devices. The physical layer provides an electrical, mechanical, and procedural interface to the transmission medium. The shapes and properties of the [electrical connectors](https://en.wikipedia.org/wiki/Electrical_connector "Electrical connector"), the frequencies to broadcast on, the [line code](https://en.wikipedia.org/wiki/Line_code "Line code") to use and similar low-level parameters, are specified by the physical layer.
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[OSI model]], [[Network]], [[Bluetooth]], [[PCI Express]], [[5G]]

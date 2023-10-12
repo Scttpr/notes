@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** tool for prefetch files
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Prefetch]], [[Windows execution artifacts]], [[Zimmerman tools]]

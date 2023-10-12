@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Network_layer
+- **Description :** In the seven-layer [OSI model](https://en.wikipedia.org/wiki/OSI_model "OSI model") of [computer networking](https://en.wikipedia.org/wiki/Computer_networking "Computer networking"), the **network layer** is **layer 3**. The network layer is responsible for [packet forwarding](https://en.wikipedia.org/wiki/Packet_forwarding "Packet forwarding") including [routing](https://en.wikipedia.org/wiki/Routing "Routing") through intermediate [routers](https://en.wikipedia.org/wiki/Router_(computing) "Router (computing)").
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[OSI model]], [[Network]], [[ICMP]], [[IP]]

@@ -1,0 +1,5 @@
+- **URL :** https://csrc.nist.gov/glossary/term/tactics_techniques_and_procedures
+- **Description :** The behavior of an actor. A tactic is the highest-level description of this behavior, while techniques give a more detailed description of behavior in the context of a tactic, and procedures an even lower-level, highly detailed description in the context of a technique.
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Cyber Threat Intelligence]], [[Mitre Att&ck]], [[DFIR]]

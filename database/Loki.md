@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Neo23x0/Loki
+- **Description :** Scanner for Simple Indicators of Compromise
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Yara]], [[IOC]], [[Cyber Threat Intelligence]]

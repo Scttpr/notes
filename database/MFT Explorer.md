@@ -1,0 +1,5 @@
+- **URL :** https://ericzimmerman.github.io/#!index.md
+- **Description :** Graphical $MFT viewer
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Disk forensics]], [[Zimmerman tools]], [[Timestomping]]

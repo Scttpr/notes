@@ -1,0 +1,5 @@
+- **URL :** https://gtfobins.github.io/
+- **Description :** GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+- **Platforms :** [[Linux]]
+- **Category :** [[Documentation]]
+- **Tags :** [[Privilege escalation]], [[DFIR]], [[Living off the land]]

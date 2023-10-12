@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** `AmCache` refers to a Windows registry file which is used to store evidence related to program execution. It serves as a valuable resource for digital forensics and security investigations, helping analysts understand the history of application execution and detect signs of any suspicious execution.
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[DFIR]], [[Windows execution artifacts]], [[Registry explorer]]

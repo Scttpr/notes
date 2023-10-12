@@ -1,0 +1,5 @@
+- **URL :** https://symfony.com/
+- **Description :** Symfony is a set of reusable PHP _components_ and a PHP _framework_ for web projects
+- **Platforms :** [[PHP]]
+- **Category :** [[Tools]]
+- **Tags :** [[Framework]], [[Web application]], [[API]]

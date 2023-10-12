@@ -1,0 +1,5 @@
+- **URL :** https://github.com/EricZimmerman/AmcacheParser
+- **Description :** This program is different from other Amcache parsers in that it does not dump everything available. Rather, it looks at both File entries and Program entries.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Zimmerman tools]], [[AmCache]], [[DFIR]]

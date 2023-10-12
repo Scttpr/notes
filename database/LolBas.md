@@ -1,0 +1,5 @@
+- **URL :** https://lolbas-project.github.io/#
+- **Description :** Living Off The Land Binaries, Scripts and Libraries
+- **Platforms :** [[Windows]]
+- **Category :** [[Documentation]]
+- **Tags :** [[DFIR]], [[Living off the land]], [[Privilege escalation]]

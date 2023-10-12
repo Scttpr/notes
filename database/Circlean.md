@@ -1,0 +1,5 @@
+- **URL :** https://github.com/CIRCL/Circlean
+- **Description :** This project aims to be useful when you get/find a USB key that you can't trust, and you want to look at its contents without taking the risk of plugging it into your computer directly. The official project page can be found at [[https://www.circl.lu/projects/CIRCLean/](https://www.circl.lu/projects/CIRCLean/)]
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[USB]], [[Sanitizer]]

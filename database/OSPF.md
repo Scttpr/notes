@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Open_Shortest_Path_First
+- **Description :** **Open Shortest Path First** (**OSPF**) is a [routing protocol](https://en.wikipedia.org/wiki/Routing_protocol "Routing protocol") for [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol "Internet Protocol") (IP) networks. It uses a [link state routing](https://en.wikipedia.org/wiki/Link-state_routing_protocol "Link-state routing protocol") (LSR) algorithm and falls into the group of [interior gateway protocols](https://en.wikipedia.org/wiki/Interior_gateway_protocol "Interior gateway protocol") (IGPs), operating within a single [autonomous system](https://en.wikipedia.org/wiki/Autonomous_system_(Internet) "Autonomous system (Internet)") (AS).
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Protocole]], [[Routing]], [[IP]], [[Interior gateway protocols]], [[Autonomous system]]

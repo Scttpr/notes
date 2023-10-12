@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/User_Datagram_Protocol
+- **Description :** Le _**User Datagram Protocol**_ (**UDP**, en français **protocole de datagramme utilisateur**) est un des principaux [protocoles](https://fr.wikipedia.org/wiki/Protocole_de_communication "Protocole de communication") de télécommunication utilisés par [Internet](https://fr.wikipedia.org/wiki/Internet "Internet"). Il fait partie de la couche [transport](https://fr.wikipedia.org/wiki/Couche_de_transport "Couche de transport") du [modèle OSI](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI "Modèle OSI"), quatrième couche de ce modèle, comme [TCP](https://fr.wikipedia.org/wiki/Transmission_Control_Protocol "Transmission Control Protocol"). Il a été défini en 1980 par [David P. Reed](https://fr.wikipedia.org/w/index.php?title=David_P._Reed&action=edit&redlink=1 "David P. Reed (page inexistante)") [(en)](https://en.wikipedia.org/wiki/David_P._Reed "en:David P. Reed") et est détaillé dans la RFC 768
+- **Platforms :** *
+- **Category :** [[Documentation]]
+- **Tags :** [[Protocole]], [[OSI model]], [[Transport layer]]

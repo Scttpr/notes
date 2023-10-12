@@ -2,4 +2,4 @@
 - **Description :** Regshot is an open-source (LGPL) registry compare utility that allows you to quickly take a snapshot of your registry and then compare it with a second one - done after doing system changes or installing a new software product.
 - **Platforms :** [[Windows]]
 - **Category :** [[Tools]]
-- **Tags :** [[Registries]], [[Disk imaging]], [[Malware]], [[DFIR]]
+- **Tags :** [[Windows registry]], [[Disk imaging]], [[Malware]], [[DFIR]]

@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/HTTP
+- **Description :** The **Hypertext Transfer Protocol** (**HTTP**) is an [application layer](https://en.wikipedia.org/wiki/Application_layer "Application layer") protocol in the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite "Internet protocol suite") model for distributed, collaborative, [hypermedia](https://en.wikipedia.org/wiki/Hypermedia "Hypermedia") information systems. HTTP is the foundation of data communication for the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web "World Wide Web"), where [hypertext](https://en.wikipedia.org/wiki/Hypertext "Hypertext") documents include [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink "Hyperlink") to other resources that the user can easily access, for example by a [mouse](https://en.wikipedia.org/wiki/Computer_mouse "Computer mouse") click or by tapping the screen in a web browser.
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Protocole]], [[Web]]

@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/OSI_model
+- **Description :** The **Open Systems Interconnection model** (**OSI model**) is a [conceptual model](https://en.wikipedia.org/wiki/Conceptual_model "Conceptual model") from the [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization "International Organization for Standardization") (ISO) that "provides a common basis for the coordination of standards development for the purpose of systems interconnection." In the OSI reference model, the communications between systems are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+- **Platforms :**
+- **Category :** [[Documentation]]
+- **Tags :** [[Network]], [[Application layer]], [[Presentation layer]], [[Session layer]], [[Transport layer]], [[Network layer]], [[Data link layer]], [[Physical layer]]

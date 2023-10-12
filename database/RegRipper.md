@@ -1,0 +1,5 @@
+- **URL :** 
+- **Description :** command-line utility adept at swiftly extracting information from the Registry.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Windows registry]], [[Zimmerman tools]], [[DFIR]]

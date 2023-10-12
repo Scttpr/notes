@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Post_Office_Protocol
+- **Description :** In computing, the **Post Office Protocol** (**POP**) is an [application-layer](https://en.wikipedia.org/wiki/Application_layer "Application layer") [Internet standard](https://en.wikipedia.org/wiki/Internet_standard "Internet standard") [protocol](https://en.wikipedia.org/wiki/Protocol_(computing) "Protocol (computing)") used by [e-mail clients](https://en.wikipedia.org/wiki/E-mail_client "E-mail client") to retrieve [e-mail](https://en.wikipedia.org/wiki/E-mail "E-mail") from a mail server. Today, POP version 3 (**POP3**) is the most commonly used version. Together with [IMAP](https://en.wikipedia.org/wiki/IMAP "IMAP"), it is one of the most common protocols for email retrieval.
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Network]], [[Email]], [[Application layer]], [[Protocole]]

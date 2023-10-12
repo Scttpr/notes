@@ -1,0 +1,5 @@
+- **URL :** http://www.rohitab.com/apimonitor
+- **Description :** API Monitor is a free software that lets you monitor and control API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[Windows execution artifacts]], [[API Call Data (.apmx64)]]

@@ -1,0 +1,5 @@
+- **URL :** https://attack.mitre.org/techniques/T1070/006/
+- **Description :** Identifying instances of timestamp manipulation, commonly termed as timestomping ([T1070.006](https://attack.mitre.org/techniques/T1070/006/)), presents a formidable challenge in digital forensics. Timestomping entails the alteration of file timestamps to obfuscate the sequence of file activities. This tactic is frequently employed by various tools, as illustrated in the MITRE ATT&CK's timestomp technique.
+- **Platforms :** [[Linux]], [[Windows]], [[Mac]]
+- **Category :** [[Technique]]
+- **Tags :** [[DFIR]], [[Mitre Att&ck]], [[NTFS]]

@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Presentation_layer
+- **Description :** In the seven-layer [OSI model](https://en.wikipedia.org/wiki/OSI_model "OSI model") of [computer networking](https://en.wikipedia.org/wiki/Computer_network "Computer network"), the **presentation layer** is **layer 6** and serves as the data translator for the [network](https://en.wikipedia.org/wiki/Computer_network "Computer network"). It is sometimes called the syntax layer
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[OSI model]], [[Network]]

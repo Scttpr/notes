@@ -1,0 +1,5 @@
+- **URL :** https://github.com/Neo23x0/signature-base/tree/master
+- **Description :** Signature-Base is the YARA signature and IOC database for our scanners [LOKI](https://github.com/Neo23x0/Loki) and [THOR Lite](https://www.nextron-systems.com/thor-lite/)
+- **Platforms :** [[Yara]]
+- **Category :** [[Tools]]
+- **Tags :** [[Cyber Threat Intelligence]], [[Loki]], [[Thor]], [[IOC]]

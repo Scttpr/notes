@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+- **Description :** In computing, the **Internet Message Access Protocol** (**IMAP**) is an [Internet standard](https://en.wikipedia.org/wiki/Internet_standard "Internet standard") [protocol](https://en.wikipedia.org/wiki/Protocol_(computing) "Protocol (computing)") used by [email clients](https://en.wikipedia.org/wiki/Email_client "Email client") to retrieve [email](https://en.wikipedia.org/wiki/Email "Email") messages from a [mail server](https://en.wikipedia.org/wiki/Mail_server "Mail server") over a [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite "Internet protocol suite") connection. IMAP is defined by [RFC](https://en.wikipedia.org/wiki/RFC_(identifier) "RFC (identifier)") [9051](https://datatracker.ietf.org/doc/html/rfc9051)
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Email]], [[Protocole]], [[Application layer]], [[TCPxIP]]

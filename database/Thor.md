@@ -1,0 +1,5 @@
+- **URL :** https://www.nextron-systems.com/thor/
+- **Description :** THOR is the most sophisticated and flexible compromise assessment tool on the market.
+- **Platforms :** 
+- **Category :** [[Tools]]
+- **Tags :** [[Cyber Threat Intelligence]], [[DFIR]], [[IOC]], [[Yara]], [[APT]]

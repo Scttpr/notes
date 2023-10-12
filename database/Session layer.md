@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Session_layer
+- **Description :** The session layer provides the mechanism for opening, closing and managing a [session](https://en.wikipedia.org/wiki/Session_(computer_science) "Session (computer science)") between end-user application processes, i.e., a semi-permanent dialogue. Communication sessions consist of requests and responses that occur between applications. Session-layer services are commonly used in application environments that make use of [remote procedure calls](https://en.wikipedia.org/wiki/Remote_procedure_call "Remote procedure call") (RPCs)
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[OSI model]], [[Network]], [[RPC]], [[SOCKS]], [[NetBIOS]]

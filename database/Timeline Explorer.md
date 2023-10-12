@@ -1,0 +1,5 @@
+- **URL :** https://ericzimmerman.github.io/#!index.md
+- **Description :** View CSV and Excel files, filter, group, sort, etc. with ease
+- **Platforms :** [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[DFIR]], [[CSV]], [[Zimmerman tools]]

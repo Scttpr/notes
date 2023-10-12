@@ -1,0 +1,5 @@
+- **URL :** https://github.com/synacktiv/GPOddity
+- **Description :** The GPOddity project, aiming at automating GPO attack vectors through NTLM relaying (and more).
+- **Platforms :** [[Python]]
+- **Category :** [[Tools]]
+- **Tags :** [[Group Policy Objects]], [[Active Directory]], [[NTLM]], [[NTLM relaying]]

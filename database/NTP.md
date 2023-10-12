@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/Network_Time_Protocol
+- **Description :** The **Network Time Protocol** (**NTP**) is a [networking protocol](https://en.wikipedia.org/wiki/Networking_protocol "Networking protocol") for [clock synchronization](https://en.wikipedia.org/wiki/Clock_synchronization "Clock synchronization") between computer systems over [packet-switched](https://en.wikipedia.org/wiki/Packet-switched "Packet-switched"), variable-[latency](https://en.wikipedia.org/wiki/Network_latency "Network latency") data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use. NTP was designed by [David L. Mills](https://en.wikipedia.org/wiki/David_L._Mills "David L. Mills") of the [University of Delaware](https://en.wikipedia.org/wiki/University_of_Delaware "University of Delaware").
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Clock accuracy]], [[Protocole]], [[UDP]]

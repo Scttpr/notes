@@ -1,0 +1,5 @@
+- **URL :** https://en.wikipedia.org/wiki/XML
+- **Description :** **Extensible Markup Language** (**XML**) is a [markup language](https://en.wikipedia.org/wiki/Markup_language "Markup language") and [file format](https://en.wikipedia.org/wiki/File_format "File format") for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding [documents](https://en.wikipedia.org/wiki/Electronic_document "Electronic document") in a format that is both [human-readable](https://en.wikipedia.org/wiki/Human-readable_medium "Human-readable medium") and [machine-readable](https://en.wikipedia.org/wiki/Machine-readable_data "Machine-readable data"). The [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium "World Wide Web Consortium")'s XML 1.0 Specification of 1998 and several other related specifications all of them free [open standards](https://en.wikipedia.org/wiki/Open_standard "Open standard")—define XML
+- **Platforms :** 
+- **Category :** [[Documentation]]
+- **Tags :** [[Markup language]], [[Web]]
