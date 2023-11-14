@@ -1,0 +1,5 @@
+- **URL :** https://github.com/dbrgn/tealdeer
+- **Description :** A very fast implementation of [tldr](https://github.com/tldr-pages/tldr) in Rust: Simplified, example based and community-driven man pages.
+- **Platforms :** [[Rust]]
+- **Category :** [[Tools]]
+- **Tags :** [[Help]], [[CLI]], [[Man]], [[Documentation]]

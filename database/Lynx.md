@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/Lynx_(navigateur)
+- **Description :** **Lynx** est un [navigateur web](https://fr.wikipedia.org/wiki/Navigateur_web "Navigateur web") en mode texte qui utilise le clavier comme interface principale. Les protocoles supportés sont : [Gopher](https://fr.wikipedia.org/wiki/Gopher "Gopher"), [HTTP](https://fr.wikipedia.org/wiki/HTTP "HTTP"), [HTTPS](https://fr.wikipedia.org/wiki/HTTPS "HTTPS"), [FTP](https://fr.wikipedia.org/wiki/File_Transfer_Protocol "File Transfer Protocol"), [WAIS](https://fr.wikipedia.org/wiki/Wide_Area_Information_Servers "Wide Area Information Servers") et [NNTP](https://fr.wikipedia.org/wiki/Network_News_Transfer_Protocol "Network News Transfer Protocol").
+- **Platforms :** [[Linux]], [[Windows]]
+- **Category :** [[Tools]]
+- **Tags :** [[Browser]], [[CLI]]

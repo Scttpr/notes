@@ -1,0 +1,5 @@
+- **URL :** https://github.com/jdx/rtx
+- **Description :** Polyglot runtime manager (asdf rust clone)
+- **Platforms :** [[Rust]]
+- **Category :** [[Tools]]
+- **Tags :** [[CLI]], [[Version manager]], [[Java]], [[Node.js]], [[Terraform]], [[Python]], [[Go]], [[Ruby]], [[Elixir]], [[ASDF]]

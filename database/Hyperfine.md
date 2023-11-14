@@ -1,0 +1,5 @@
+- **URL :** https://github.com/sharkdp/hyperfine
+- **Description :** A command-line benchmarking tool.
+- **Platforms :** [[Rust]]
+- **Category :** [[Tools]]
+- **Tags :** [[Benchmarking]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/WayneD/rsync
+- **Description :** Rsync is a fast and extraordinarily versatile file copying tool for both remote and local files.
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[File transfer]], [[Network]]
