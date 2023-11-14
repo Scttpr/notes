@@ -1,0 +1,5 @@
+- **URL :** https://fr.wikipedia.org/wiki/Iptables
+- **Description :** **iptables** est un [logiciel libre](https://fr.wikipedia.org/wiki/Logiciel_libre "Logiciel libre") de l'[espace utilisateur](https://fr.wikipedia.org/wiki/Espace_utilisateur "Espace utilisateur") [Linux](https://fr.wikipedia.org/wiki/Linux "Linux") grâce auquel l'[administrateur système](https://fr.wikipedia.org/wiki/Administrateur_syst%C3%A8me "Administrateur système") peut configurer les chaînes et règles dans le [pare-feu](https://fr.wikipedia.org/wiki/Pare-feu_(informatique) "Pare-feu (informatique)") en [espace noyau](https://fr.wikipedia.org/wiki/Espace_noyau "Espace noyau") (et qui est composé par des modules [Netfilter](https://fr.wikipedia.org/wiki/Netfilter "Netfilter")).
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Firewall]], [[Network]], [[IP]]

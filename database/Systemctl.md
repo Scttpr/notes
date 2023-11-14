@@ -1,0 +1,5 @@
+- **URL :** https://man7.org/linux/man-pages/man1/systemctl.1.html
+- **Description :** **systemctl** may be used to introspect and control the state of the "systemd" system and service manager. Please refer to [systemd(1)](https://man7.org/linux/man-pages/man1/systemd.1.html) for an introduction into the basic concepts and functionality this tool manages.
+- **Platforms :** [[Linux]]
+- **Category :** [[Tools]]
+- **Tags :** [[Systemd]], [[Service manager]]

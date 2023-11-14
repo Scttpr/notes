@@ -1,0 +1,5 @@
+ - **URL :** https://github.com/CIRCL/Circlean
+- **Description :** USB key sanitizer
+- **Platforms :** [[Python]], [[C]]
+- **Category :** [[Tools]]
+- **Tags :** [[USB]], [[Sanitizer]], [[Malware]]

@@ -1,0 +1,5 @@
+- **URL :** https://github.com/mxrch/GHunt
+- **Description :** GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT, but any use related with Google is possible.
+- **Platforms :** [[Python]] 
+- **Category :** [[Tools]]
+- **Tags :** [[OSINT]], [[Google]], [[Email]]

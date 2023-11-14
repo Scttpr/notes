@@ -1,0 +1,5 @@
+- **URL :** https://github.com/bitfield/script
+- **Description :** `script` is a Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
+- **Platforms :** [[Go]]
+- **Category :** [[Tools]]
+- **Tags :** [[Linux]]
