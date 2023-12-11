@@ -1,0 +1,5 @@
+- **URL :** https://github.com/praetorian-inc/noseyparker
+- **Description :** Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data. It is useful both for offensive and defensive security testing.
+- **Platforms :** [[Rust]]
+- **Category :** [[Tools]]
+- **Tags :** [[Scanner]], [[Secrets]], [[Git]], [[Enumeration]], [[Gihub]]
